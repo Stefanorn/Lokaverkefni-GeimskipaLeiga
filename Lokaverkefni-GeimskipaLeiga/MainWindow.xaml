@@ -7,6 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Menu x:Name="menu" Height="25" VerticalAlignment="Top">
+            <MenuItem Header="Viðskiptavinir">
+                <MenuItem Header="Nýskrá Viðskiptavin"></MenuItem>
+                <MenuItem Header="Viðskiptamanna Listi"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Skrá Geimskip"></MenuItem>
+        </Menu>
+
+
+
+
     </Grid>
 </Window>

@@ -1,1 +1,14 @@
 C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\bin\Debug\Lokaverkefni-GeimskipaLeiga.exe.config
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\bin\Debug\Lokaverkefni-GeimskipaLeiga.exe
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\bin\Debug\Lokaverkefni-GeimskipaLeiga.pdb
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga.csprojResolveAssemblyReference.cache
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\MainWindow.g.cs
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\App.g.cs
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga_MarkupCompile.cache
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga_MarkupCompile.lref
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\MainWindow.baml
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga.g.resources
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni_GeimskipaLeiga.Properties.Resources.resources
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga.csproj.GenerateResource.Cache
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga.exe
+C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga.pdb
