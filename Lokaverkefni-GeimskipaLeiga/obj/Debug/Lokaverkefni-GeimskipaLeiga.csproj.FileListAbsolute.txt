@@ -12,3 +12,6 @@ C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debu
 C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga.csproj.GenerateResource.Cache
 C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga.exe
 C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga.pdb
+C:\drasl\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\bin\Debug\Lokaverkefni-GeimskipaLeiga.exe.config
+C:\drasl\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga.exe
+C:\drasl\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\Lokaverkefni-GeimskipaLeiga.pdb
