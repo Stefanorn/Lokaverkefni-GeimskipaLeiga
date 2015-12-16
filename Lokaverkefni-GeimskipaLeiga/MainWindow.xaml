@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Lokaverkefni_GeimskipaLeiga"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Spaceship Rentalmaster 2000" Height="350" Width="525">
     <Grid>
         <Menu x:Name="menu" Height="25" VerticalAlignment="Top">
             <MenuItem Header="Viðskiptavinir">
