@@ -4,17 +4,26 @@
 winexe
 C#
 .cs
-C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\
+C:\drasl\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\obj\Debug\
 Lokaverkefni_GeimskipaLeiga
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
+C:\drasl\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\App.xaml
+2-1510353431
+
+10-567702917
+13738642453
+MainWindow.xaml;SpaceshipExplorer.xaml;
+=======
 C:\Forritun\git\Lokaverkefni-GeimskipaLeiga\Lokaverkefni-GeimskipaLeiga\App.xaml
 2414669748
 
 11474146657
 13738642453
 MainWindow.xaml;NýskráViðskiptavin.xaml;
+>>>>>>> refs/remotes/origin/master
 
-False
+True
 
