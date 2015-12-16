@@ -5,7 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Lokaverkefni_GeimskipaLeiga"
         mc:Ignorable="d"
+<<<<<<< HEAD
         Title="Spaceship Rentalmaster 2000" Height="350" Width="525">
+=======
+        Title="Spaceship Rental 2000" Height="350" Width="525">
+>>>>>>> refs/remotes/origin/master
     <Grid>
         <Menu x:Name="menu" Height="25" VerticalAlignment="Top">
             <MenuItem Header="Viðskiptavinir">
